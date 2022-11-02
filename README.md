@@ -3,14 +3,14 @@ Implementation of Play Fair encryption
 
 Rules:
 ->Don't make pair of same letters, add dummy 'x' in between them
-</hr>
+</br>
 ->If length is odd after pairing, add 'z'
-</hr>
+</br>
 ->'j' is replaced by 'i'.
-</hr>
+</br>
 ->Repeated letters not allowed in the key.
-</hr>
+</br>
 ->Plain Text should be only alphabetic.
-</hr>
+</br>
 
 Thanks for reading ;)
